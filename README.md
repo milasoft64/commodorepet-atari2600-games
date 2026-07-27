@@ -15,3 +15,9 @@ Explore the jungle looking for lost treasure, while avoiding creates like alliga
 <img width="384" height="273" alt="commodore pet river raid" src="https://github.com/user-attachments/assets/c9aaff1f-4ea2-472c-95cb-c96491d12445" />
 
 Shoot boats and fighter jets as you fly across rivers and villages.
+
+** Yars' Galaxy **
+
+<img width="384" height="217" alt="commodore pet yars revenge" src="https://github.com/user-attachments/assets/0fd420ab-76e8-4929-92dc-d5adc17ec5e2" />
+
+Space shoot'em game
